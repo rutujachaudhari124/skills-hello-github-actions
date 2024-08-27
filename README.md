@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions demo
+# Hello GitHub Actions demo2
 
 _Create and run a GitHub Actions workflow._
 
